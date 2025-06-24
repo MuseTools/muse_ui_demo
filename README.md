@@ -1,25 +1,20 @@
-# Muse UI
+# Muse UI Demo
 
 English | [简体中文](./README.zh-CN.md)
 
-> UI elements for **Flutter**
+> UI demos for **Muse UI**
 
-The current repository is created out of personal interest and my experience in front-end development, as a Flutter-based UI library project.
+This repository is primarily designed to showcase UI demos and code examples of the MuseUI project.
 
-The goal of this project is to build a **practical**, **convenient**, and **simple** Flutter UI component library.
+- [MuseUI Github](https://github.com/musetools/muse_ui)
+- [MuseUI Pub.dev](https://pub.dev/packages/muse_ui)
 
-This aims to facilitate daily complex business development by focusing on business functionality and custom component development.
+- [Demo Github](https://github.com/musetools/muse_ui_demo/)
 
-- [Pub.dev](https://pub.dev/packages/muse_ui)
-- [Github](https://github.com/musetools/muse_ui)
-- [Demo](https://musetools.github.io/muse_ui/)
-- [Demo code](https://github.com/musetools/muse_ui/tree/master/apps/muse_demo)
+### [UI Widgets Preview](https://musetools.github.io/muse_ui_demo/)
 
-### UI Widgets
-
-- [MuseButton Demos](https://github.com/musetools/muse_ui/tree/main/apps/muse_demo/lib/demo/button)
-  ![MuseButton](http://oss.musetools.uk/pic/button1.png)
-  ![MuseButton](http://oss.musetools.uk/pic/button2.png)
+  ![](http://oss.musetools.uk/pic/button1.png)
+  ![](http://oss.musetools.uk/pic/button2.png)
 
 ## Getting started
 
@@ -60,17 +55,6 @@ $ flutter run
 ### local development
 
 > Modify the muse_ui plugin in apps/muse_demo/pubspec.yaml to use a local path.
-> By default, melos is automatically set to the local path and does not need to be modified.
-
-## Directory Structure
-
-```bash
-├── apps                # Examples related to Muse UI
-│   └── muse_demo       Building applications using muse_ui
-│
-└── packages/muse_ui    # muse_ui source code
-    └── lib             muse_ui source code root
-```
 
 ## License
 

@@ -1,10 +1,10 @@
-name: muse_ui_workspace
+name: muse_ui_demo_workspace
 
 repository:
   type: github
   origin: https://github.com
   owner: MuseTools
-  name: muse_ui
+  name: muse_ui_demo
 
 packages:
   - "apps/**"
